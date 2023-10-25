@@ -1,3 +1,5 @@
+Player Not Found is my entry for Qwizz's Spooky Game Jam. Made in 5 days.
+
 # Mellow Engine
 Mellow Engine is a game engine that I'm working on. While not the 
 first I've ever made, it will definitely be the most organized and 
